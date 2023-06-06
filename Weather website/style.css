@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Pink_Chicken";
+  src: url(/assets/PinkChicken-Regular.ttf);
+}
+body {
+  font-family: "Pink_Chicken";
+  background-image: url("Pictures/Winter.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+.weatherIcon img {
+  width: 44%;
+}
+.Main_Banner {
+}
+.swal-modal {
+  background-color: #2b3035;
+}
+.swal-title,
+.swal-text,
+.swal-button {
+  color: #fff;
+  letter-spacing: 2px;
+}
+.swal-button {
+  color: #000;
+  letter-spacing: 2px;
+}
+h1 {
+  color: #212529;
+}
+
+.table {
+  color: white;
+}
